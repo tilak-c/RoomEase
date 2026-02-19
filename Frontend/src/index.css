@@ -1,32 +1,10 @@
-body {
-  font-family: "Playfair Display", serif;
-  background-color: #0f172a;
-  color: #f8fafc;
-}
-
 * {
   box-sizing: border-box;
 }
-
-html, body, #root {
-  font-family: "Playfair Display", serif;
-}
-
-button,
-input,
-textarea,
-select,
-a,
-span,
-p,
-div,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: inherit;
+body {
+  font-family: "Georgia", serif;
+  background-color: #0f172a;
+  color: #f8fafc;
 }
 
 .navbar {
