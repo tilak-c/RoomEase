@@ -1,0 +1,5 @@
+npm install
+npm install axios react-router-dom chart.js react-chartjs-2
+npm install react-icons
+npm install react-toastify
+npm run dev
